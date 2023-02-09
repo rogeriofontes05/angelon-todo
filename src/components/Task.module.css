@@ -125,7 +125,7 @@ div.taskListEmpty img {
 .taskTitleLabel {
   width: 100%;
   text-align: left;
-  text-size: 0.25rem;
+  font-size: 0.25rem;
   margin:0 0.5rem;
 }
 
@@ -135,7 +135,7 @@ div.taskListEmpty img {
 
 .taskTitleLabel .taskTitleCompleted {
   color: var(--purple);
-  text-decoraction: strikethrough;
+  text-decoration: strikethrough;
 }
 
 .taskCompleteContainer {
